@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "&quot;$($_)&quot;",
+    "description": "",
+    "home_page_url": "https://stevendearstyne.com",
+    "feed_url": "https://stevendearstyne.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "steve"
+    },
+    "items": [
+        {
+            "id": "https://stevendearstyne.com/test-first-post/",
+            "url": "https://stevendearstyne.com/test-first-post/",
+            "title": "DIY ergo mouse",
+            "author": {
+                "name": "steve"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-11T23:26:11-05:00",
+            "date_modified": "2020-12-11T23:43:48-05:00"
+        }
+    ]
+}
